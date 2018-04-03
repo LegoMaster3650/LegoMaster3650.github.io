@@ -7,14 +7,14 @@
  <input type="radio" name="color" value="blue" onclick="chooseColor(‘blue’)">BLUE<br/>
  </form>
 
- function chooseColor(theValue) {
-    if (theValue != '') {
-        color = theValue;
-        TouchCastvApps.doAuthoringAction({
-            action: 'widgetIsReadyToGoLive',
-            value: 1
-        });
-    }
+function chooseColor(theValue) {
+   if (theValue != '') {
+       color = theValue;
+       TouchCastvApps.doAuthoringAction({
+           action: 'widgetIsReadyToGoLive',
+           value: 1
+       });
+   }
 }
 });
 
