@@ -20,6 +20,6 @@ TouchCastvApps.doAuthoringAction({
 });
 function WidgetIsAboutToGoLive(){
     // !!!BE SURE TO REPLACE THIS URL TO MATCH YOUR ACTUAL DOMAIN 
-    var theUrl = "http://developers.touchcast.com/examples/vapps/colorvapp/live.php?color="+color;
+    var theUrl = "http://http://legomaster3650.github.io/CPvApp/index.php?color="+color;
     return '{"url":"'+theUrl+'","reload-page":"1"}';
 }
