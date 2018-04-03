@@ -16,7 +16,7 @@
 			function WidgetIsAboutToGoLive(){
 
 				// !!!BE SURE TO REPLACE THIS URL TO MATCH YOUR ACTUAL DOMAIN 
-				var theUrl = "http://legomaster3650.github.io/CPvApp/live.php?color="+color;
+				var theUrl = "https://legomaster3650.github.io/CPvApp/live.php?color="+color;
 				return '{"url":"'+theUrl+'","reload-page":"1"}';
 
 			}						
