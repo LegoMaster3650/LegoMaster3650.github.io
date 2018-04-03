@@ -21,7 +21,7 @@
 			function WidgetIsAboutToSwitchToEditing(){
 
 				// !!!BE SURE TO REPLACE THIS URL TO MATCH YOUR ACTUAL DOMAIN 
-				return '{"url":"http://developers.touchcast.com/examples/vapps/colorvapp","reload-page":"1"}';
+				return '{"url":"https://legomaster3650.github.io/CPvApp/index.php","reload-page":"1"}';
 
 			}
 
