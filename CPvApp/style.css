@@ -1,7 +1,0 @@
-* {margin: 0;padding:0;border:none;font-family:helvetica;}
-html{background-color:transparent;}
-html,body{height:100%; overflow:hidden;}
-body{margin-top:-10px;}
-#color-box{width:100%;height:100%;background-image:url("assets/shortbg.png");padding-top:10px;background-size:cover;background-position:center center;background-repeat:no-repeat; color: #AAAAAA;}
-#form-wrapper{width:90%;margin:0 auto;}
-input[type=radio]{margin: 28px;}
